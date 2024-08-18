@@ -19,7 +19,7 @@ Additionally, the ETL pipeline is automated using Apache Airflow as the schedule
 Set up a virtual environment and install the necessary packages from requirements.txt.
 
 2. Install Airflow:
-Install Airflow using PyPI by following the official installation **{guide}(https://airflow.apache.org/docs/apache-airflow/stable/installation/installing-from-pypi.html)**.
+Install Airflow using PyPI by following the official installation **[guide](https://airflow.apache.org/docs/apache-airflow/stable/installation/installing-from-pypi.html)**.
 In this project, Airflow logs are stored in the same working directory for debugging purposes.
 
 3. Ensure Data Source Availability:
