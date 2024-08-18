@@ -1,0 +1,17 @@
+# Airflow
+airflow-scheduler.*
+airflow-webserver.*
+logs
+
+# DAG config
+common.py
+
+# Main script config
+config.py
+accesss.txt 
+
+# Virtual env configuration
+ETL
+
+# Miscellaneous
+__pycache__
